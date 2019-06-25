@@ -3,7 +3,7 @@
  * Write a description of class HelloWorld here.
  * 
  * @author MrB 
- * @version v1
+ * @version v1.1 - testing updates
  */
 public class HelloWorld
 {
